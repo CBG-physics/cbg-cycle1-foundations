@@ -188,16 +188,28 @@ python run_all_audits.py
 
 ## 8. Citation & License
 
+If you use this framework or its verification suites, please cite:
+
+> Jiménez Velasco, M. (2026). *Principia Geometrica of Covariant Bitemporal Geometrodynamics (Paper 0)*. Zenodo. [doi:10.5281/zenodo.23829404](https://doi.org/10.5281/zenodo.23829404)
+
+<details>
+<summary>BibTeX</summary>
+
 ```bibtex
 @misc{JimenezVelasco2026CBGPaper0,
-  author    = {Jim{\'e}nez Velasco, Manuel},
-  title     = {{Principia Geometrica of Covariant Bitemporal Geometrodynamics (Paper 0)}},
+  author    = {Jiménez Velasco, Manuel},
+  title     = {Principia Geometrica of Covariant Bitemporal Geometrodynamics (Paper 0)},
   year      = {2026},
   publisher = {Zenodo},
-  doi       = {10.5281/zenodo.23829404},
-  url       = {https://doi.org/10.5281/zenodo.23829404}
+  doi       = {10.5281/zenodo.23829404}
 }
 ```
 
-- **Verification software (`*.py`):** [MIT License](LICENSE).
-- **Monographs and LaTeX sources (`*.pdf`, `*.tex`):** © 2026 Manuel Jiménez Velasco, [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/).
+</details>
+
+Citation metadata for all four monographs is in [`CITATION.cff`](CITATION.cff).
+
+| Content | License |
+| :--- | :--- |
+| Verification software (`*.py`) | [MIT](LICENSE) |
+| Monographs and LaTeX sources (`*.pdf`, `*.tex`) | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/), © 2026 Manuel Jiménez Velasco |
