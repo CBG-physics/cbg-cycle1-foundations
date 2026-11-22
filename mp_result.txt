@@ -1,0 +1,1 @@
+dps=40 span=33.5 fwd_s=299.2 back_s=303.2 psi_end=7.51385997786e-8 v_end=-7.33125773656e-8 return_error=3.73e-6
